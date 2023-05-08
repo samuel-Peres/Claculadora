@@ -7,7 +7,6 @@ let erase = document.getElementById("apagar");
 
 window.onload = () => {
   input.value = "0"
-
 };
 
 button_input.forEach((button_class) => {
