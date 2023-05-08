@@ -6,8 +6,7 @@ let clear = document.getElementById("clear");
 let erase = document.getElementById("apagar");
 
 window.onload = () => {
-  var n1 = "0"
-  input.value = n1
+  input.value = "0"
 
 };
 
